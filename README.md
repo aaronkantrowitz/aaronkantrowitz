@@ -1,4 +1,3 @@
-**<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronkantrowitz"/>
 **# Aaron Kantrowitz 👨‍💻
 
 Software Engineer based in San Diego, CA, passionate about coding and teaching others through content creation.
@@ -31,7 +30,7 @@ const aaron = {
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkantrowitz&show_icons=true&theme=radical)]
 
 ## Latest Content 📺
-<!-- Add your latest content here -->
+[![codewithaaron.tv](https://codewithaaron.tv)]
 
 ## Let's Connect! 🤝
 Feel free to reach out to me on any of my social platforms. I'm always excited to connect with fellow developers and tech enthusiasts!
