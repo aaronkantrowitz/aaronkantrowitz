@@ -1,4 +1,4 @@
-**# Aaron Kantrowitz 👨‍💻
+# Aaron Kantrowitz
 
 Software Engineer based in San Diego, CA, passionate about coding and teaching others through content creation.
 
