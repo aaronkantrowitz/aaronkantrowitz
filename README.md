@@ -30,7 +30,7 @@ const aaron = {
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkantrowitz&show_icons=true&theme=radical)]
 
 ## Latest Content 📺
-[![codewithaaron.tv](https://codewithaaron.tv)]
+[![codewithaaron](https://codewithaaron.tv)]
 
 ## Let's Connect! 🤝
 Feel free to reach out to me on any of my social platforms. I'm always excited to connect with fellow developers and tech enthusiasts!
