@@ -1,36 +1,47 @@
 # Aaron Kantrowitz
 
-Software Engineer based in San Diego, CA, passionate about coding and teaching others through content creation.
+Technology executive based in San Diego, CA, focused on scaling e-commerce solutions and innovative technology implementations.
 
 ## About Me 🚀
-I'm a software engineer who loves sharing my knowledge and experiences with the coding community. Through various platforms, I create content that helps others learn and grow in their programming journey.
 
-## Find Me Online 🌐
-- 📺 YouTube: [Code with Aaron](https://codewithaaron.tv)
-- 🎥 TikTok: [@codewithaaron](https://tiktok.com/@codewithaaron)
-- 🐦 Twitter: [@codewithaarontv](https://twitter.com/codewithaarontv)
-- 🌍 Website: [codewithaaron.tv](https://codewithaaron.tv)
+I'm a technology leader with extensive experience in growing e-commerce solutions from startup to scale. I combine strategic leadership with hands-on engineering expertise to deliver innovative solutions in the e-commerce space.
 
-## What I Do 💡
-- 👨‍💻 Software Engineering
-- 🎓 Teaching & Content Creation
-- 📱 Social Media Education
-- 🤝 Community Building
+## Professional Focus 💡
+
+- 🏗️ Enterprise Solutions Architecture
+- 🛍️ Shopify Plus Development
+- 🤖 AI/ML Integration
+- 👥 Technical Team Leadership
+- 🤝 Strategic Partnership Development
+- 📈 Business Growth & Scaling
 
 ## Tech Stack 🛠️
+
 ```javascript
-const aaron = {
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-    tools: ["React", "Node.js", "Git"],
-    passion: "Teaching others to code"
-}
+const technologies = {
+  frontend: ['React', 'Remix', 'JavaScript', 'TypeScript'],
+  backend: ['Node.js', 'Python', 'GraphQL'],
+  platforms: ['Shopify Plus', 'AWS', 'Cloud Infrastructure'],
+  focus: ['E-commerce', 'AI Integration', 'Enterprise Solutions'],
+};
 ```
 
+## Expertise 🔧
+
+- Enterprise E-commerce Solutions
+- Technical Architecture Design
+- AI/ML Implementation
+- Team Building & Leadership
+- Strategic Technology Planning
+- Cloud Infrastructure
+
 ## GitHub Stats 📊
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkantrowitz&show_icons=true&theme=radical)]
 
-## Latest Content 📺
-[[codewithaaron.tv](https://codewithaaron.tv)]
-
 ## Let's Connect! 🤝
-Feel free to reach out to me on any of my social platforms. I'm always excited to connect with fellow developers and tech enthusiasts!
+
+I'm always interested in connecting with fellow technology leaders and discussing innovative solutions in e-commerce and AI integration.
+
+- 💼 [LinkedIn](https://linkedin.com/in/aaronkantrowitz)
+- 
