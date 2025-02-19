@@ -35,10 +35,6 @@ const technologies = {
 - Strategic Technology Planning
 - Cloud Infrastructure
 
-## GitHub Stats 📊
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkantrowitz&show_icons=true&theme=radical)]
-
 ## Let's Connect! 🤝
 
 I'm always interested in connecting with fellow technology leaders and discussing innovative solutions in e-commerce and AI integration.
