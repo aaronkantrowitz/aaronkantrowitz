@@ -22,5 +22,3 @@ const stack = {
 ## Connect 🤝
 
 - 💼 [LinkedIn](https://linkedin.com/in/aaronkantrowitz)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronkantrowitz&show_icons=true&theme=radical)]
