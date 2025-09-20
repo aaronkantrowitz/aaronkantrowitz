@@ -1,21 +1,21 @@
 # Aaron Kantrowitz
 
-Technology executive building at the intersection of commerce and AI. Previously scaled an e-commerce consultancy delivering Shopify Plus implementations. Currently developing new ventures in commerce technology.
+Technology executive building at the intersection of humans and AI. Previously scaled an consultancy delivering enterprise commerce implementations. Currently developing new ventures in IoT & AI.
 
 ## Tech Stack 🛠️
 
 ```javascript
 const stack = {
-  current: ['React', 'Remix', 'TypeScript', 'Python', 'GraphQL'],
-  platforms: ['Shopify Plus', 'AWS'],
-  focus: ['E-commerce', 'AI/ML', 'Enterprise Architecture'],
+  current: ['JavaScript', 'TypeScript', 'Python', 'Postgres', 'GraphQL'],
+  platforms: ['Fly', 'AWS', 'GCP', 'DO', 'CloudFlare' 'n8n', 'LangChain'],
+  focus: ['Commerce', 'AI', 'IoT'],
 };
 ```
 
 ## What I Do 💡
 
-- 🏗️ Build scalable commerce solutions
-- 🤖 Integrate AI/ML for business impact
+- 🏗️ Build scalable solutions
+- 🤖 Orchestrate human & AI for business impact
 - 👥 Lead engineering teams
 - 🌱 Develop new ventures
 
