@@ -1,6 +1,6 @@
 # Aaron Kantrowitz
 
-Technology executive building at the intersection of humans and AI. Previously scaled an consultancy delivering enterprise commerce implementations. Currently developing new ventures in IoT & AI.
+Technology executive building at the intersection of human and AI systems. Previously scaled an consultancy delivering enterprise commerce implementations. Currently developing new ventures in IoT & AI.
 
 ## Tech Stack 🛠️
 
