@@ -1,4 +1,4 @@
-d# Aaron Kantrowitz
+# Aaron Kantrowitz
 
 Technology executive orchestrating human and AI systems at scale. Built and scaled a profitable consultancy pioneering commerce implementations. Now developing an AI-powered fact-checking platform.
 
