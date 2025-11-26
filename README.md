@@ -15,7 +15,7 @@ const stack = {
 ## What I Do 💡
 
 - 🏗️ Build scalable solutions
-- 🤖 Orchestrate human & AI systems for business impact
+- 🤖 Orchestrate human & AI systems for impact
 - 👥 Lead engineering teams
 - 🌱 Develop new ventures
 
