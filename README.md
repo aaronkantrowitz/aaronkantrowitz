@@ -1,14 +1,14 @@
-# Aaron Kantrowitz
+d# Aaron Kantrowitz
 
-Technology executive building at the intersection of human and AI systems. Previously scaled an consultancy delivering enterprise commerce implementations. Currently developing new ventures in IoT & AI.
+Technology executive orchestrating human and AI systems at scale. Built and scaled a profitable consultancy pioneering commerce implementations. Now developing an AI-powered fact-checking platform.
 
 ## Tech Stack 🛠️
 
 ```javascript
 const stack = {
-  current: ['JavaScript', 'TypeScript', 'Python', 'Postgres', 'GraphQL'],
-  platforms: ['Fly', 'AWS', 'GCP', 'DO', 'CloudFlare' 'n8n', 'LangChain'],
-  focus: ['Commerce', 'AI', 'IoT'],
+  current: ['Node.js', 'GraphQL', 'Svelte', 'PostgresSQL', 'Python'],
+  platforms: ['Fly', 'CloudFlare', 'Hasura', 'GCP', 'Anthropic', 'OpenAI'],
+  focus: ['AI', 'LLMs', 'Integrity'],
 };
 ```
 
