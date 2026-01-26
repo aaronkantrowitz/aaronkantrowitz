@@ -1,24 +1,23 @@
 # Aaron Kantrowitz
 
-Technology executive orchestrating human and AI systems at scale. Built and scaled a profitable consultancy pioneering commerce implementations. Now developing an AI-powered fact-checking platform.
+Full-stack engineer building AI/LLM systems. Currently focused on multi-agent orchestration and fact-checking infrastructure.
 
-## Tech Stack 🛠️
-
+## Tech Stack 🛠
 ```javascript
 const stack = {
-  current: ['Node.js', 'GraphQL', 'Svelte', 'PostgresSQL', 'Python'],
-  platforms: ['Fly', 'CloudFlare', 'Hasura', 'GCP', 'Anthropic', 'OpenAI'],
-  focus: ['AI', 'LLMs', 'Integrity'],
+  ai: ['LangGraph', 'Claude API', 'Perplexity API', 'OpenAI Whisper', 'Vision Transformers'],
+  backend: ['TypeScript', 'Node.js', 'Python', 'Fastify', 'GraphQL', 'PostgreSQL'],
+  frontend: ['Svelte', 'React', 'Swift/SwiftUI'],
+  infra: ['Cloudflare', 'Fly.io', 'Hasura', 'Docker'],
 };
 ```
 
-## What I Do 💡
+## Current Work 💡
 
-- 🏗️ Build scalable solutions
-- 🤖 Orchestrate human & AI systems for impact
-- 👥 Lead engineering teams
-- 🌱 Develop new ventures
+- **[CapCheck](https://capcheck.ai)** - AI fact-checking platform using LangGraph multi-agent pipelines
+- **[capcheck-architecture](link)** - Technical deep-dive: evidence-only synthesis, confidence calibration, model routing
 
 ## Connect 🤝
 
-- 💼 [LinkedIn](https://linkedin.com/in/aaronkantrowitz)
+- [LinkedIn](https://linkedin.com/in/aaronkantrowitz)
+- [Website](https://aaronkantrowitz.com)
