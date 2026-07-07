@@ -14,7 +14,6 @@ const stack = {
 
 ## Current Work 💡
 
-- **[CapCheck](https://capcheck.ai)** - AI fact-checking platform using LangGraph multi-agent pipelines
 - **[CAPCHECK-ARCHITECTURE](https://github.com/aaronkantrowitz/capcheck-architecture)** - Technical deep-dive: evidence-only synthesis, confidence calibration, model routing
 
 ## Connect 🤝
