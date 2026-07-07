@@ -1,6 +1,6 @@
 # Aaron Kantrowitz
 
-Full-stack engineer building AI/LLM systems. Currently focused on multi-agent orchestration and fact-checking infrastructure.
+Full-stack engineer building AI/LLM systems.
 
 ## Tech Stack 🛠
 ```javascript
